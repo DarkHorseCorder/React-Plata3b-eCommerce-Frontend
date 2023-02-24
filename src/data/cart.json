@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/products/1.png",
+        "title": "Queen Neckless",
+        "qty": 2,
+        "price": 12.99
+    },
+    {
+        "id": 2,
+        "img": "assets/img/products/5.png",
+        "title": "Gold Rings",
+        "qty": 1,
+        "price": 12.99
+    },
+    {
+        "id": 3,
+        "img": "assets/img/products/4.png",
+        "title": "Neckless",
+        "qty": 3,
+        "price": 12.99
+    }
+]

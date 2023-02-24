@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "productname": "Gold Ring",
+        "qty": 1,
+        "price": 23.99
+    },
+    {
+        "id": 2,
+        "productname": "Sliver Ring",
+        "qty": 2,
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "productname": "Neckless",
+        "qty": 3,
+        "price": 13.99
+    }
+]

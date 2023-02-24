@@ -1,0 +1,88 @@
+/* PRIMARY COLOR */
+a, .andro_list li::before,
+.andro_btn-custom.light,
+.andro_header-top-sm li a:hover,
+.andro_header-top-links a:hover,
+.andro_header-controls-inner li.andro_header-cart .andro_header-cart-content span + span,
+.andro_header-bottom-inner > .navbar-nav > .menu-item > a:hover,
+.andro_header-middle .navbar > .navbar-nav > .menu-item > a:hover,
+.navbar-nav .mega-menu-item a:hover,
+.andro_aside ul .menu-item a:hover,
+.andro_aside ul .menu-item a.active,
+.andro_footer-middle a:hover,
+.andro_footer-bottom ul li a:hover,
+.andro_footer-bottom .andro_footer-copyright > a:hover,
+.andro_footer-bottom .andro_footer-copyright > a:hover i,
+.footer-widget ul li a::before,
+.andro_post .andro_post-categories a,
+.sidebar-widget ul.sidebar-widget-list li a:hover,
+.widget-recent-posts .post h6 a:hover,
+.widget-recent-posts .post span a:hover,
+.andro_product-price span + span,
+.andro_product-meta li a:hover,
+.andro_cart-product-wrapper h6 a:hover,
+.andro_category-mm-body ul li a:hover,
+.andro_flex-menu > ul > li > a:hover,
+.andro_icon-block.icon-block-2 i,
+.andro_auth-mini a:hover{
+  color: #eeab56;
+}
+blockquote{
+  border-left-color: #eeab56;
+}
+.dot1, .dot2,
+.andro_btn-custom,
+.andro_btn-custom.primary,
+.primary-bg,
+.aside-toggler.desktop-toggler,
+.andro_post .andro_post-categories a:hover,
+.sidebar-widget .widget-title::after,
+.andro_newsletter-form.primary-bg,
+.andro_product-controls a:hover,
+.andro_category-mm-header,
+.andro_banner .slick-dots li.slick-active button,
+.andro_arrows .slick-arrow:hover,
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus,
+.section-title::after{
+  background-color: #eeab56;
+}
+.andro_icon-block .andro_svg-stroke-shape-anim{
+  stroke: #eeab56;
+}
+
+
+/* PRIMARY HOVER COLOR */
+a:hover,
+a:focus,
+.btn-link:hover,
+.andro_post .andro_post-body h5 a:hover,
+.andro_post .andro_post-body .andro_post-desc > span a:hover,
+.andro_product .andro_product-body .andro_product-title a:hover{
+  color: #1e1e1f;
+}
+.andro_btn-custom:hover,
+.andro_btn-custom:focus,
+.andro_btn-custom.primary:hover,
+.andro_btn-custom.primary:focus,
+.navbar-nav .mega-menu-item .andro_btn-custom:hover,
+.aside-toggler.desktop-toggler:hover,
+.andro_header.header-3 .andro_category-mm .andro_category-mm-header:hover{
+  background-color: #1e1e1f;
+}
+
+/* PRIMARY RGBA */
+.andro_post .andro_post-categories a{
+  background-color: rgb(16 16 16 / 84%);
+}
+
+/* Responsive Only */
+@media(max-width:991px){
+
+  .banner-3.andro_banner .andro_arrows .slick-arrow:hover{
+    background-color: #eeab56;
+  }
+
+}

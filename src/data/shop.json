@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/products/7.png",
+        "title": "Diamond Ring",
+        "price": 29,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 4,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": true,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/img/products/8.png",
+        "title": "Ear Ring",
+        "price": 28,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 3,
+        "discount": 10,
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "assets/img/products/9.png",
+        "title": "Greem Diamond Ring",
+        "price": 34,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 4,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "assets/img/products/10.png",
+        "title": "Blue Pendent",
+        "price": 46,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 5,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": true,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "assets/img/products/11.png",
+        "title": "Queen Neckless",
+        "price": 54,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 4,
+        "discount": 12,
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "assets/img/products/12.png",
+        "title": "Pointed Pendent",
+        "price": 28,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 2,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": true,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "assets/img/products/2.png",
+        "title": "New Earrings",
+        "price": 67,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 2,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "assets/img/products/4.png",
+        "title": "Queen Neckless",
+        "price": 24,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 3,
+        "discount": 15,
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "assets/img/products/5.png",
+        "title": "Bracelet",
+        "price": 64,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 4,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": true,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "img": "assets/img/products/6.png",
+        "title": "Yellow Diamond Ring",
+        "price": 44,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 5,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "assets/img/products/14.png",
+        "title": "Diamond Rings",
+        "price": 35,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 4,
+        "discount": "",
+        "timeleft": 31536000000,
+        "featured": true,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "assets/img/products/15.png",
+        "title": "Apricots",
+        "price": 30,
+        "shortdesc": "Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "rating": 1,
+        "discount": 20,
+        "timeleft": 31536000000,
+        "featured": false,
+        "categories": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "N/A",
+        "longdescription": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "color": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "material": [
+            "wood",
+            "plastic",
+            "stainless steel"
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "rating":5,
+                "userimg":"assets/img/people/1.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+                "commentdate":"January 13 2021"
+            },
+            {
+                "id":2,
+                "rating":4,
+                "userimg":"assets/img/people/2.jpg",
+                "username":"John Doe",
+                "comment":"Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+                "commentdate":"January 13 2021"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "condition": [
+        {
+            "id": 1,
+            "title": "Daily Deal"
+        },
+        {
+            "id": 2,
+            "title": "On Sale"
+        }
+    ],
+    "brand": [
+        {
+            "id": 1,
+            "title": "Green Life"
+        },
+        {
+            "id": 2,
+            "title": "Whole Diamonds"
+        },
+        {
+            "id": 3,
+            "title": "Shrubbery co."
+        },
+        {
+            "id": 4,
+            "title": "Better Life"
+        },
+        {
+            "id": 5,
+            "title": "Modern Design"
+        }
+    ]
+}

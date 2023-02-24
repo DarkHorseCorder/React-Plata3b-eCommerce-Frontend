@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "photo": "assets/img/people/4.jpg",
+        "name": "Jina Flock",
+        "designation": "Customer",
+        "title":"Perfect service",
+        "rating":4,
+        "para": "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    },
+    {
+        "id":2,
+        "photo": "assets/img/people/3.jpg",
+        "name": "Miranda Blue",
+        "designation": "Customer",
+        "title":"Competitive prices",
+        "rating":5,
+        "para": "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    },
+    {
+        "id":3,
+        "photo": "assets/img/people/2.jpg",
+        "name": "Feleciti Rolling",
+        "designation": "Customer",
+        "title":"Great agents",
+        "rating":3,
+        "para": "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    }
+]

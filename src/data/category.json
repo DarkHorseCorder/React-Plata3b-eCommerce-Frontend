@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "icon": "flaticon-diamond",
+        "title": "Diamond"
+    },
+    {
+        "id":2,
+        "icon": "flaticon-gold",
+        "title": "Gold"
+    },
+    {
+        "id":3,
+        "icon": "flaticon-ingot",
+        "title": "White Gold"
+    },
+    {
+        "id":4,
+        "icon": "flaticon-diamonds",
+        "title": "Platinum"
+    },
+    {
+        "id":5,
+        "icon": "flaticon-gemstone",
+        "title": "Bronze"
+    },
+    {
+        "id":6,
+        "icon": "flaticon-diamond-1",
+        "title": "Black Stone"
+    }
+]

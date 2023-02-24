@@ -1,0 +1,148 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 29/07/2020 11:21
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-view:before { content: "\f100"; }
+.flaticon-refresh:before { content: "\f101"; }
+.flaticon-like:before { content: "\f102"; }
+.flaticon-diet:before { content: "\f103"; }
+.flaticon-eat:before { content: "\f104"; }
+.flaticon-shopping-basket:before { content: "\f105"; }
+.flaticon-baby-boy:before { content: "\f106"; }
+.flaticon-quarantine:before { content: "\f107"; }
+.flaticon-supplements:before { content: "\f108"; }
+.flaticon-harvest:before { content: "\f109"; }
+.flaticon-tag:before { content: "\f10a"; }
+.flaticon-visibility:before { content: "\f10b"; }
+.flaticon-shopping-cart:before { content: "\f10c"; }
+.flaticon-passion:before { content: "\f10d"; }
+.flaticon-compare:before { content: "\f10e"; }
+.flaticon-groceries:before { content: "\f10f"; }
+.flaticon-cleaning-spray:before { content: "\f110"; }
+.flaticon-baby:before { content: "\f111"; }
+.flaticon-olive-oil:before { content: "\f112"; }
+.flaticon-quotation:before { content: "\f113"; }
+.flaticon-email:before { content: "\f114"; }
+.flaticon-call:before { content: "\f115"; }
+.flaticon-location:before { content: "\f116"; }
+.flaticon-like-1:before { content: "\f117"; }
+.flaticon-visibility-1:before { content: "\f118"; }
+.flaticon-checkmark:before { content: "\f119"; }
+.flaticon-info:before { content: "\f11a"; }
+.flaticon-remove:before { content: "\f11b"; }
+.flaticon-link:before { content: "\f11c"; }
+.flaticon-speech-bubble:before { content: "\f11d"; }
+.flaticon-attach:before { content: "\f11e"; }
+.flaticon-video:before { content: "\f11f"; }
+.flaticon-picture:before { content: "\f120"; }
+.flaticon-status:before { content: "\f121"; }
+.flaticon-corn:before { content: "\f122"; }
+.flaticon-strawberry-jam:before { content: "\f123"; }
+.flaticon-peas:before { content: "\f124"; }
+.flaticon-lemonade:before { content: "\f125"; }
+.flaticon-drink:before { content: "\f126"; }
+.flaticon-broccoli:before { content: "\f127"; }
+.flaticon-blueberry:before { content: "\f128"; }
+.flaticon-fish:before { content: "\f129"; }
+.flaticon-popcorn:before { content: "\f12a"; }
+.flaticon-fig:before { content: "\f12b"; }
+.flaticon-quality:before { content: "\f12c"; }
+.flaticon-diamond:before { content: "\f12d"; }
+.flaticon-ingot:before { content: "\f12e"; }
+.flaticon-gold:before { content: "\f12f"; }
+.flaticon-diamond-ring:before { content: "\f130"; }
+.flaticon-pendant:before { content: "\f131"; }
+.flaticon-necklace:before { content: "\f132"; }
+.flaticon-diamonds:before { content: "\f133"; }
+.flaticon-diamond-1:before { content: "\f134"; }
+.flaticon-gemstone:before { content: "\f135"; }
+    
+    $font-Flaticon-view: "\f100";
+    $font-Flaticon-refresh: "\f101";
+    $font-Flaticon-like: "\f102";
+    $font-Flaticon-diet: "\f103";
+    $font-Flaticon-eat: "\f104";
+    $font-Flaticon-shopping-basket: "\f105";
+    $font-Flaticon-baby-boy: "\f106";
+    $font-Flaticon-quarantine: "\f107";
+    $font-Flaticon-supplements: "\f108";
+    $font-Flaticon-harvest: "\f109";
+    $font-Flaticon-tag: "\f10a";
+    $font-Flaticon-visibility: "\f10b";
+    $font-Flaticon-shopping-cart: "\f10c";
+    $font-Flaticon-passion: "\f10d";
+    $font-Flaticon-compare: "\f10e";
+    $font-Flaticon-groceries: "\f10f";
+    $font-Flaticon-cleaning-spray: "\f110";
+    $font-Flaticon-baby: "\f111";
+    $font-Flaticon-olive-oil: "\f112";
+    $font-Flaticon-quotation: "\f113";
+    $font-Flaticon-email: "\f114";
+    $font-Flaticon-call: "\f115";
+    $font-Flaticon-location: "\f116";
+    $font-Flaticon-like-1: "\f117";
+    $font-Flaticon-visibility-1: "\f118";
+    $font-Flaticon-checkmark: "\f119";
+    $font-Flaticon-info: "\f11a";
+    $font-Flaticon-remove: "\f11b";
+    $font-Flaticon-link: "\f11c";
+    $font-Flaticon-speech-bubble: "\f11d";
+    $font-Flaticon-attach: "\f11e";
+    $font-Flaticon-video: "\f11f";
+    $font-Flaticon-picture: "\f120";
+    $font-Flaticon-status: "\f121";
+    $font-Flaticon-corn: "\f122";
+    $font-Flaticon-strawberry-jam: "\f123";
+    $font-Flaticon-peas: "\f124";
+    $font-Flaticon-lemonade: "\f125";
+    $font-Flaticon-drink: "\f126";
+    $font-Flaticon-broccoli: "\f127";
+    $font-Flaticon-blueberry: "\f128";
+    $font-Flaticon-fish: "\f129";
+    $font-Flaticon-popcorn: "\f12a";
+    $font-Flaticon-fig: "\f12b";
+    $font-Flaticon-quality: "\f12c";
+    $font-Flaticon-diamond: "\f12d";
+    $font-Flaticon-ingot: "\f12e";
+    $font-Flaticon-gold: "\f12f";
+    $font-Flaticon-diamond-ring: "\f130";
+    $font-Flaticon-pendant: "\f131";
+    $font-Flaticon-necklace: "\f132";
+    $font-Flaticon-diamonds: "\f133";
+    $font-Flaticon-diamond-1: "\f134";
+    $font-Flaticon-gemstone: "\f135";
